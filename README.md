@@ -38,6 +38,3 @@ Over time, I reconsidered my career path and realised that I was fascinated by t
 
 [![CodeWars](https://www.codewars.com/users/kaziamov/badges/large)](https://www.codewars.com/r/N0so6Q)
 
-
-
-# kaziamov
