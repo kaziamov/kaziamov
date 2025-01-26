@@ -1,0 +1,29 @@
+name: Work Stats Readme
+
+on:
+  workflow_dispatch:
+  schedule:
+    # Runs every 24 hours
+    - cron: "0 0 * * *"
+
+jobs:
+  update-readme:
+    name: WakaReadme DevMetrics
+    runs-on: ubuntu-latest
+    steps:
+      - uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          SHOW_PROJECTS: "True"
+          SHOW_LINES_OF_CODE: "True"
+          SHOW_LOC_CHART: "True"
+          LOCALE: "en"
+          SHOW_OS: "True"
+          SHOW_EDITORS: "True"
+          TIME_RANGE: last_year
+          LANG_COUNT: 10
+          IGNORED_LANGUAGES: YAML JSON TOML Makefile Text Markdown "GitIgnore file" "Env File" HTML
+          COMMITTER_NAME: GitHubActionBot
+          COMMITTER_EMAIL: action-bot@github.com
+          AUTHOR_NAME: Ilia Kaziamov
+          AUTHOR_EMAIL: kaziamov@outlook.com
