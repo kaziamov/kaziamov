@@ -11,8 +11,8 @@ Over time, I reconsidered my career path and realised that I was fascinated by t
 
 
 ### My projects
-* [Python library](https://github.com/hexfrost/simplecrud) for easy CRUD operations with database [![PyPI Downloads](https://static.pepy.tech/badge/hexfrost-simplecrud)](https://pepy.tech/projects/hexfrost-simplecrud)
 * [VS Code Extensions Pack](https://marketplace.visualstudio.com/items?itemName=kaziamov.quickstart-python-pack&ssr=false#overview) for Python Beginners ![Visual Studio Marketplace Downloads](https://img.shields.io/visual-studio-marketplace/d/kaziamov.quickstart-python-pack)
+* [Toolbox - python library](https://github.com/hexfrost/hexfrost-toolbox) - use tools instead witing boilerplate code  [![PyPI Downloads](https://static.pepy.tech/badge/hexfrost-toolbox)](https://pepy.tech/projects/hexfrost-toolbox)
 
 
 
