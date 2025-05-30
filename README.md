@@ -12,7 +12,7 @@ Over time, I reconsidered my career path and realised that I was fascinated by t
 
 ### My projects
 * [VS Code Extensions Pack](https://marketplace.visualstudio.com/items?itemName=kaziamov.quickstart-python-pack&ssr=false#overview) for Python Beginners ![Visual Studio Marketplace Downloads](https://img.shields.io/visual-studio-marketplace/d/kaziamov.quickstart-python-pack)
-* [Toolbox - python library](https://github.com/hexfrost/hexfrost-toolbox) - use tools instead witing boilerplate code  [![PyPI Downloads](https://static.pepy.tech/badge/hexfrost-toolbox)](https://pepy.tech/projects/hexfrost-toolbox)
+* [Toolbox - python library](https://github.com/hexfrost/toolbox) - batteries for FastAPI projects  [![PyPI Downloads](https://static.pepy.tech/badge/hexfrost-toolbox)](https://pepy.tech/projects/hexfrost-toolbox)
 
 
 
